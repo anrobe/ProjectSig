@@ -2,7 +2,8 @@
 echo "# ProjectSig" >> README.md
 git init
 git add README.md
-git commit -m "first commit"
+git commit -m "20241024"
+git commit -a -m "20241024"
 git branch -M main
 git remote add origin https://github.com/anrobe/ProjectSig.git
 git push -u origin main
